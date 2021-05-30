@@ -18,7 +18,7 @@ def vsign(v,a,b):
 
 ###Constants
 m = nf(10)  # kg
-A = 1 # Cross sectional area (m^2)
+A = nf(1) # Cross sectional area (m^2)
 C = nf(5)  # Drag coefficient
 roe = nf(1) # kg/m^3
 g = nf(-9.81) # gravity in m/s^2
